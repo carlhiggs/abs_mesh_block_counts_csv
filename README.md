@@ -1,0 +1,2 @@
+# abs_mesh_block_counts_csv
+As of 31 August 2022, the Australian Bureau of Statistics has only released the 2021 census Mesh Block dwelling counts as an Excel file, with data stratified across 12 worksheets.  This repository contains a Jupyter Notebook with code used to compile national- and state-specific CSV files to assist users to more readily link this data with digital boundary files, and otherwise uses it in scripted analyses.
