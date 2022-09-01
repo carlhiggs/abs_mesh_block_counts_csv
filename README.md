@@ -6,7 +6,7 @@ Code to retrieve and process the Mesh Block count data and output it as national
 
 The resulting datasets are located on RMIT FigShare at https://doi.org/10.25439/rmt.20746609 .
 
-The resulting data is located
+This has also been written up as an article on [Medium](https://medium.com/@carlhiggs/census-data-released-as-excel-files-6d22da9dc09d).
 
 Carl Higgs
 31 August 2022
